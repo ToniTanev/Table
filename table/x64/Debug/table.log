@@ -1,0 +1,7 @@
+﻿  functionality.cpp
+c:\users\toni\documents\repos\table\table\functionality.h(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\toni\documents\repos\table\table\functionality.cpp(124): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\toni\documents\repos\table\table\functionality.cpp(208): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\toni\documents\repos\table\table\functionality.cpp(209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\toni\documents\repos\table\table\functionality.cpp(245): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  table.vcxproj -> C:\Users\Toni\Documents\repos\table\x64\Debug\table.exe

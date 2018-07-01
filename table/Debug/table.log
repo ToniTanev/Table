@@ -1,0 +1,20 @@
+﻿  main.cpp
+c:\users\toni\documents\repos\table\table\main.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\toni\documents\repos\table\table\main.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\toni\documents\repos\table\table\main.cpp(232): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\toni\documents\repos\table\table\main.cpp(233): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\toni\documents\repos\table\table\main.cpp(269): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\toni\documents\repos\table\table\main.cpp(286): warning C4018: '<': signed/unsigned mismatch
+c:\users\toni\documents\repos\table\table\main.cpp(290): warning C4018: '<': signed/unsigned mismatch
+c:\users\toni\documents\repos\table\table\main.cpp(294): warning C4018: '<': signed/unsigned mismatch
+c:\users\toni\documents\repos\table\table\main.cpp(298): warning C4018: '<': signed/unsigned mismatch
+c:\users\toni\documents\repos\table\table\main.cpp(313): warning C4018: '<': signed/unsigned mismatch
+c:\users\toni\documents\repos\table\table\main.cpp(319): warning C4018: '<': signed/unsigned mismatch
+c:\users\toni\documents\repos\table\table\main.cpp(323): warning C4018: '<': signed/unsigned mismatch
+c:\users\toni\documents\repos\table\table\main.cpp(337): warning C4018: '<': signed/unsigned mismatch
+c:\users\toni\documents\repos\table\table\main.cpp(342): warning C4018: '<': signed/unsigned mismatch
+c:\users\toni\documents\repos\table\table\main.cpp(346): warning C4018: '<': signed/unsigned mismatch
+c:\users\toni\documents\repos\table\table\main.cpp(501): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\toni\documents\repos\table\table\main.cpp(531): warning C4305: 'initializing': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  table.vcxproj -> C:\Users\Toni\Documents\repos\table\Debug\table.exe
